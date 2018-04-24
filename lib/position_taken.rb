@@ -1,5 +1,5 @@
 def position_taken?(arr, ind)
-  if condition
+  if arr[ind]
 
   end
 end
